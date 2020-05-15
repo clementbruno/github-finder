@@ -1,0 +1,9 @@
+.navbar__title {
+  display: flex;
+  align-items: center;
+}
+
+.navbar__title i {
+  margin-right: 14px;
+  font-size: 36px;
+}
